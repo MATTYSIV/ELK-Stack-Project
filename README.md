@@ -1,7 +1,6 @@
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
-[New Microsoft Word Document (3).docx](https://github.com/MATTYSIV/ELK-Stack-Project/files/8836222/New.Microsoft.Word.Document.3.docx)
 **Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
 
 ![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)

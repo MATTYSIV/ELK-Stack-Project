@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 **Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
-![diagram ](https://user-images.githubusercontent.com/106646100/171969383-1cedd7e7-bcbe-4fdf-a293-dd9036b7bbeb.png)
+![diagram ]()
 
 ![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
 

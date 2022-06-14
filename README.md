@@ -19,12 +19,24 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly _____, in addition to restricting _____ to the network.
-- _TODO: What aspect of security do load balancers protect? What is the advantage of a jump box?_
+Load balancing ensures that the application will be highly functional,in addition to restricting high-traffic to the network.
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
-- _TODO: What does Filebeat watch for?_
-- _TODO: What does Metricbeat record?_
+: What aspect of security do load balancers protect? 
+
+  Main purpose is to distribute web traffic across multiple server.
+  It helps prevent overloading servers as well as optimizes productivity
+  It protect critical web applications
+  It allows high avalibility.protecting against attack such as distributed denial-of=service (DDOS) attack
+  
+  What is the advantage of a jump box?
+  It is a gateway on a network use to manage devices in different security zones
+  It helps to improve security and it is also prevents all azure VM to expose to public
+
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the jumpbox and system network
+
+- What does Filebeat watch for?_
+- It monitors the log files 
+- What does Metricbeat record?_
 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.

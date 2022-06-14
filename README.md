@@ -1,7 +1,7 @@
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
-![diagram ]((https://user-images.githubusercontent.com/106646100/173476378-58d97338-23bf-4e84-803f-543235cc8a22.png)
+![diagram ]()
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
   - _TODO: Enter the playbook file._

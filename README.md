@@ -27,7 +27,8 @@ Load balancing ensures that the application will be highly functional,in additio
 
 : What aspect of security do load balancers protect? 
 
-  Main purpose is to distribute web traffic across multiple server.
+  Main purpose is to distribute web traffic across multiple server
+
   It helps prevent overloading servers as well as optimizes productivity
   It protect critical web applications
   It allows high avalibility.protecting against attack such as distributed denial-of=service (DDOS) attack
@@ -83,11 +84,9 @@ The playbook implements the following tasks:
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
 **Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.  
+![docker_ps_output png](https://user-images.githubusercontent.com/106646100/174461039-ff5fa2ca-d94f-44ac-ac2d-e9bf24c80d22.png)
 
-
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
-
-### Target Machines & Beats
+(### Target Machines & Beat
 This ELK server is configured to monitor the following machines:
 - _TODO: List the IP addresses of the machines you are monitoring_
 

@@ -80,11 +80,11 @@ it allows IT administrators to automate their everyday task.
 
 The playbook implements the following tasks:
 - _ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
- - .Intially SSH into Jump-Box-Provisioner
- - ..Run docker container list -a it is to verify that the container is on and then start/Attached to the ansible docker.
- - And then went to /eic/ansible/roles directory and created the ELK playbook.
- - Run the ELK-playbook.yml
- - Finally SSH into the ELK-VM to verify the server is up and running.                                                                                                                                                               
+    - .Intially SSH into Jump-Box-Provisioner
+    - ..Run docker container list -a it is to verify that the container is on and then start/Attached to the ansible docker.
+    - And then went to /eic/ansible/roles directory and created the ELK playbook.
+    - Run the ELK-playbook.yml
+    - Finally SSH into the ELK-VM to verify the server is up and running.                                                                                                                                                               
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
 **Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.  

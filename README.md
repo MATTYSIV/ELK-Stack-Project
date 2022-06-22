@@ -25,8 +25,6 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 
 Load balancing ensures that the application will be highly functional,in addition to restricting high-traffic to the network.
 
-: What aspect of security do load balancers protect? 
-
   Main purpose is to distribute web traffic across multiple server
 
   It helps prevent overloading servers as well as optimizes productivity
